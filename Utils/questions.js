@@ -1,6 +1,6 @@
 const db = require('../connection.js');
 
-const initialQ = [
+const initialQuestions = [
     {
         name: 'choices',
         type: 'list',

@@ -18,8 +18,8 @@ Clone the repo and install all dependencies.
 ## Usage
 Run the server.js file in your terminal and follow all prompts. Use your arrow keys to tab through options.
 
+![screenshot](./assets/title.jpg)
 ![screenshot of webpage](./assets/screenshot.jpg)
-
 ![screenshot](./assets/video.jpg)
 
 See video for a *[walkthrough](https://drive.google.com/file/d/1Sj3dsuMbg56rVWI-jGs4-8VRrDM55WWB/view)*.

@@ -17,15 +17,9 @@ VALUES (1, 'Representative', 55000.00, 1),
        (9, 'CEO', 350000.00, 2);
 
 INSERT INTO employee (id, first_name, last_name, role_id, manager_id)
-VALUES (1, 'Charlie', 'Buckets', 1, NULL),
-       (2, 'Melanie', 'Flowers', 2, NULL),
-       (3, 'Blaine', 'Overwood', 6, NULL),
-       (4, 'Exeter', 'Flexitor', 5, NULL),
-       (5, 'Fiora', 'Truffles', 3, NULL),
-       (6, 'Bokeem', 'Woodbine', 7, NULL),
-       (7, 'Tee', 'X', 1, NULL),
-       (8, 'Fan', 'Bing-Bing', 4, NULL),
-       (9, 'Harry', 'Zhou', 8, NULL),
-       (10, 'Andy', 'Rooh', 9, NULL);
+VALUES (1, 'Charlie', 'Barley', 1, NULL),
+       (2, 'Melanie', 'Wells', 2, NULL),
+       (3, 'Blaine', 'Fargio', 6, NULL),
+       (4, 'Sally', 'Sweets', 3, NULL),
+       (5, 'Samantha', 'Swishers', 4, NULL),
        
-

@@ -8,8 +8,9 @@ A command-line app that allows viewing and updating a company database that incl
 * [Installation](#installation)
 * [Usage](#usage)
 * [Technologies](#technologies)
-* [Questions](#questions)
 * [License](#license)
+* [Contact](#contact)
+
 
 ## Installation
 Clone the repo and install all dependencies.
@@ -17,9 +18,9 @@ Clone the repo and install all dependencies.
 ## Usage
 Run the server.js file in your terminal and follow all prompts. Use your arrow keys to tab through options.
 
-![screenshot of webpage](./assets/screenshot.PNG)
+![screenshot of webpage](./assets/screenshot.jpg)
 
-![screenshot of webpage](./assets/video.PNG)
+![screenshot](./assets/video.jpg)
 
 See video for a *[walkthrough](https://drive.google.com/file/d/1Sj3dsuMbg56rVWI-jGs4-8VRrDM55WWB/view)*.
 
